@@ -1,11 +1,11 @@
-# The React Cinema App
+# The React Project Template
 
-This interactive movie listings app is created with [React](https://react.dev/), [TypeScript](https://www.typescriptlang.org/), and [Vite](https://vitejs.dev/).
+This project template uses [React](https://react.dev/), [TypeScript](https://www.typescriptlang.org/), and [Vite](https://vitejs.dev/).
 
 <BR>
 
 <figure>
-  <a href="https://samuelasherrivello.github.io/react-cinema/index.html">
+  <a href="https://samuelasherrivello.github.io/react-project-template/index.html">
     <img alt="screenshot"
 src="./React/documentation/Screenshot01.png"
 width = "600"
